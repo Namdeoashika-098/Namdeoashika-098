@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashika Namdeo</h1>
-<h3 align="center">Blockchain & MERN developer from India</h3>
+<h3 align="center">MERN developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Namdeoashika-098" alt="Namdeoashika-098" /></a> </p>
 
